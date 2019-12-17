@@ -95,7 +95,7 @@ $ cucumber   --format html --out=features/reports/report/report.html
 #### The last notes... And a failure.
 
 Unfortunately, I coud not complete the Part 4 of this Challenge. Even tough I have tried my best to achieve and complete all challenges, the API testing proved itself to be a bigger challenge than I could expect.
-I had many trouble with the OAuth autentication and couldn't manage to run a application that authenticates with user Id. Also, the spotify notes, used a Node.js application to run the API testing, and unfortunately Node isn't one o my skills - but definitively will be. 
+I had many trouble with the OAuth autentication and couldn't manage to run a application that authenticates with user Id. Also, the spotify notes, used a Node.js application to run the API testing, and unfortunately Node isn't one o my skills - but definitively soon will be. 
 
 ---
 
