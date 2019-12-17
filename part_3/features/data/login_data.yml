@@ -1,0 +1,12 @@
+valid_credentials:
+  email: 'gabriel.almeida.sdmf@gmail.com'
+  password: '220595Sdmf*'
+
+invalid_email:
+  email: "invalidmail@amaro.com"
+  password: "password"
+
+invalid_password:
+  email: 'long_live_the_sith_empire@sithempire.com'
+  password: 'invalidPass123'
+    

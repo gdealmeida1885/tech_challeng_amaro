@@ -1,0 +1,69 @@
+valid_sign_up_credentials:
+    name: Ben
+    lastname: Kenobi
+    email: hiidden_from_the_eviil_empire@tatooine.com
+    cpf: 666.823.230-26
+    birth: 01/01/1995
+    phone: 11999999999
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+
+invalid_mail:
+    name: Walter
+    lastname: White
+    email: say_my_name
+    cpf: 696.378.450-70
+    birth: 01/10/1900 
+    phone: 11999999999
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+
+invalid_cpf:
+    name: Gandalf
+    lastname: The Grey
+    email: you_shall_not_pass@mordor.com
+    cpf: 696.378.450-59
+    birth: 10/01/1900
+    phone: 11999999999
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+
+registered_cpf:
+    name: Ronald 
+    lastname: Weasley
+    email: too_poor_to_buy@diagonalley.com
+    cpf: 431.476.988-23
+    birth: 22/05/1995
+    phone: 11999999999
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+
+invalid_date:
+    name: Cthulhu
+    lastname: Old One 
+    email: sleeping@rlyeh.com
+    cpf: 696.378.450-70
+    birth: 01/01/1200
+    phone: 11999999999
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+      
+invalid_phone:
+    name: Jules
+    lastname: Winnfield
+    email: say_wh@again.com
+    cpf: 696.378.450-70
+    birth: 01/01/1964
+    phone: 1231231-4243
+    password: 12345abC*
+    passwordConfirmation: 12345abC*
+      
+unmatched_password:
+    name: Geralt
+    lastname: Of Rivia
+    email: killin_mosters@thecontinent.com
+    cpf: 696.378.450-70
+    birth: 01/01/1964
+    phone: 11954419893
+    password: 12345abC*
+    passwordConfirmation: 12345abCd*
