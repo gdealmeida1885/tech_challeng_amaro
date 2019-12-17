@@ -17,7 +17,7 @@ Thanks! :)
 
 __**Mobile App**__
 
-* When the user [opens the app without internet](/part_1/Mobile/mobile_scenario1_reconnected.jpg) or mobile data and [reconnects afterwards](/part_1/Mobile/mobile_scenario1_reconnected.jpg), the app doesn't reload it's tabs automatically, even when [changing the menus](/part_1/Mobile/mobile_scenario1_changinMenu.jpg). 
+* When the user [opens the app without internet](part_1/Mobile/mobile_scenario1_noConnection.jpg) or mobile data and [reconnects afterwards](/part_1/Mobile/mobile_scenario1_reconnected.jpg), the app doesn't reload it's tabs automatically, even when [changing the menus](/part_1/Mobile/mobile_scenario1_changinMenu.jpg). 
 The user has to, manually, click on "Try Again" in every menu, ir order to reload the page.
 
 * The "My Purchases" button should be visible to the user and easily accessible in the bottom    navigation menu at the home screen. 
